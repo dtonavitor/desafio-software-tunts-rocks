@@ -1,4 +1,4 @@
-# Desafio Engenharia de Software Tunts.Rocks
+# Desafio Engenharia de Software Tunts.Rocks - Vitor Augusto Menten de Barros
 
 # Execução da aplicação:
 Para executar este programa, você precisa dos seguintes pré-requisitos:
@@ -14,3 +14,5 @@ npm install
 ```
 node app.js
 ```
+
+Link da planilha: <a href="https://docs.google.com/spreadsheets/d/1NNPU9egmEDJnytlAscxKQsUt4Q0kq4YtoNWIvkWF8rQ/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1NNPU9egmEDJnytlAscxKQsUt4Q0kq4YtoNWIvkWF8rQ/edit?usp=sharing</a>
